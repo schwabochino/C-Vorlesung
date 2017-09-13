@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1504907268 source:c:\users\phili\onedrive\studium\ws17\konzeptepp\c\projekte\benzinverbrauch\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1505154316 source:c:\users\phili\documents\github\projekte-c\benzinverbrauch\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

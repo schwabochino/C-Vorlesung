@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1504907886 source:c:\users\phili\onedrive\studium\ws17\konzeptepp\c\projekte\kreisflaeche\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

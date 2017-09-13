@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1504908549 source:c:\users\phili\onedrive\studium\ws17\konzeptepp\c\projekte\2_7_stundenrechner\main.c
+	<stdio.h>
+	<stdlib.h>
+

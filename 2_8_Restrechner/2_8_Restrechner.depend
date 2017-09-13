@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1504910274 source:c:\users\phili\onedrive\studium\ws17\konzeptepp\c\projekte\2_8_restrechner\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1505329356 source:c:\users\phili\documents\github\projekte-c\2_8_restrechner\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
