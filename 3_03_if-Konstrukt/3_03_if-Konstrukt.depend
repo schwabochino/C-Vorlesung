@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1505756159 source:c:\users\phili\documents\github\ltp\3_03_if-konstrukt\main.c
+	<stdio.h>
+	<stdlib.h>
+

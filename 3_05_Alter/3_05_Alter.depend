@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1505760337 source:c:\users\phili\documents\github\ltp\3_05_alter\main.c
+	<stdio.h>
+	<stdlib.h>
+

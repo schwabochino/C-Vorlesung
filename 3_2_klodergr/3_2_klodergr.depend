@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1505507389 source:c:\users\phili\documents\github\ltp\3_2_klodergr\main.c
+	<stdio.h>
+	<stdlib.h>
+
