@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1506094636 source:/Users/BatBook/Documents/git/C-Vorlesung/3_06/main.c
+	<stdio.h>
+	<stdlib.h>
+
