@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1506103312 source:c:\users\batbook\documents\github\c-vorlesung\3_07 kleinstezahl\main.c
+	<stdio.h>
+	<stdlib.h>
+

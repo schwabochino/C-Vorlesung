@@ -5,7 +5,7 @@
 
 int main()
 {
-    int wert1 = 7, wert2=5, wert3 = 10;
+    int wert1 = 999999, wert2=9999, wert3 = 10;
     if (wert1 < wert2 < wert3) printf("%d\n", wert2); //Wert wird ausgegeben weil wert2 < wert3 und somit wahr
 
     //3.04
