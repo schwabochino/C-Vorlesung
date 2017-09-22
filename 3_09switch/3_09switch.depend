@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1506107698 source:c:\users\batbook\documents\github\c-vorlesung\3_09switch\main.c
+	<stdio.h>
+	<stdlib.h>
+

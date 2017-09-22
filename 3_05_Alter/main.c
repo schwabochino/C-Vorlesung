@@ -11,13 +11,13 @@ int main()
     if((alter < 67) && (alter > 18))
     {
         printf("Erwachsener!\n");
-    } else if (alter < 18 )
+    } else if ((alter =< 18) && (alter => 0) )
     {
         printf("Jugendlicher / Kind\n");
     } else if (alter > 67)
     {
         printf("Senior\n");
-    }
+    } else printf("Fehler bei der Eingabe!")
 
 return 0;
 }
