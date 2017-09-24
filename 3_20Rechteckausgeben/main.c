@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//3.20 Geben Sie ein Rechteck 10*10 Zeichen mit * aus
+/3.20 Geben Sie ein Rechteck 10*10 Zeichen mit * aus
 
 int main()
 {
