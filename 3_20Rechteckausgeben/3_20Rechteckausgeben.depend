@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1506256662 source:c:\users\phili\documents\github\c-vorlesung\3_20rechteckausgeben\main.c
+	<stdio.h>
+	<stdlib.h>
+
