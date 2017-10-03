@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1507046400 source:c:\users\phili\documents\github\c-vorlesung\unterjaehrigzinz\main.c
+	<stdio.h>
+	<stdlib.h>
+
