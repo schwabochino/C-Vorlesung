@@ -11,7 +11,7 @@ int main()
     while(n<=eingabe)
     {
         fak =  fak*n++;
-        printf("Fakultät %i = %i\n",n-1, fak);
+        printf("Fakultät %i = %i\n",n-1, fak); //n-1 weil n schon hochgezählt wurde und sonst Fakultät %i = 3 statt 2 wäre
     }
    return 0;
 }
