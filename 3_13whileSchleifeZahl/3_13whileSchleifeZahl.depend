@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1506256306 source:c:\users\phili\documents\github\c-vorlesung\3_13whileschleifezahl\main.c
+	<stdio.h>
+	<stdlib.h>
+

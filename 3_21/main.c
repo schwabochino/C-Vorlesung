@@ -4,22 +4,23 @@
 int main()
 {
     int a = 1, b = 1, produkt = 0, kontrolle = 1;
-    while(a<10)
-    {
-        produkt = a * b;
-        printf("%i * %i = %i!\n", a, b, produkt);
-        b++;
 
-        /*kontrolle = b%10;
-        if(kontrolle==0){
-            a++;
-        }else
+    while(a<=10)
         {
-                    produkt = a * b;
-        printf("%i * %i = %i!\n", a, b, produkt);
-        b++;*/
-        }
+            //b++ dann a*b bis b == 10 dann a++
+            produkt = a*b;
+            printf("%i * %i = %i\n",a, b, produkt);
 
-    }
-    return 0;
+            if (b==10)
+            {
+                b=1;
+                a++;
+            }
+                else
+                {
+                    b++;
+                }
+
+        }
+                 return 0;
 }
