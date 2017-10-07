@@ -14,6 +14,6 @@ int main()
     int *zeiger = &zahl;
     int **zeigeraufzeiger = &zeiger;
     
-    printf("Zeiger: %d, Zeiger auf Zeiger: %d, Zahl: %zahl", zeiger, zeigeraufzeiger, zahl);
+    printf("Zeiger: %d, Zeiger auf Zeiger: %d, Zahl: %d\n", *zeiger, **zeigeraufzeiger, zahl);
     return 0;
 }
