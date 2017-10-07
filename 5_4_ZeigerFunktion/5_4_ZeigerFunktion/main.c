@@ -8,14 +8,14 @@
 
 #include <stdio.h>
 
-void einlesen(int*, int*);//aufruf der Funktion die weiter unten erstellt wurde
+void einlesen(int*, int*);//Aufruf der Funktion die weiter unten erstellt wurde
 
 int main() {
     int zahl1 = 0, zahl2=0;
   
     
     einlesen(&zahl1, &zahl2);//&zahl1 übergibt die Adresse von zahl1
-    produkt= zahl1*zahl2;
+
     printf("Produkt=%d\n",zahl1*zahl2);
     return 0;
 }
