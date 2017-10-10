@@ -7,7 +7,13 @@
 //
 
 #include <stdio.h>
-
+#include <math.h>
 int main(){
-    float messwerte
+    float messwerte[1000];
+    int i=0;
+    for (i=1; i<=1000; i++){
+            messwerte[i]=i;
+            printf("%f\n",messwerte[i]);
+    
+    }
 }
